@@ -1,4 +1,4 @@
-<img src="https://github.com/rhonelachner/rhonelachner/main/header-image.png"></img>
+<img src="https://github.com/rhonelachner/rhonelachner/header-image.png"></img>
 
 ### Hi 👋  I'm Rhone! 
 

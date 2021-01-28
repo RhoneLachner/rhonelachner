@@ -22,7 +22,7 @@
 
 </div>
 <div align="center">
-  <span>
+  <span display="inline-block">
    
    ### <a display="inline-block" href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
    ### <a display="inline-block" href="https://www.rhonelachner.com">Portfolio Site</a> </br>

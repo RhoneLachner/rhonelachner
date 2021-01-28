@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<h2> Hi, I'm Rhone! Welcome to my GitHub page! </h2>
+<h2> Hi, I'm Rhone! Welcome to my GitHub page! 🌿 </h2>
 
    ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 
@@ -24,9 +24,9 @@
 
 <div align="center">
    <h2>
-     🌿  <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
+     <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
     //
-     <a href="https://www.rhonelachner.com">Portfolio Site</a>  🌿</br>
+     <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h2>
 </div>
 

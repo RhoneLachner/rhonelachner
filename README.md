@@ -33,8 +33,8 @@
  <h3> contact: </h3>
  
    <h4>
-     <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a> // 
-     <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
+    ⁺ ༚˚✧ <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a> // 
+     <a href="https://www.rhonelachner.com">Portfolio Site</a> ✧˚༚ ⁺ </br>
    </h4>
 </div>
 

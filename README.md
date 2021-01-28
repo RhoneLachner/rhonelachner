@@ -1,4 +1,4 @@
-![alt text](https://github.com/rhonelachner/rhonelachner/main/header-image.png?raw=true)
+<img src="https://github.com/rhonelachner/rhonelachner/main/header-image.png"></img>
 
 ### Hi 👋  I'm Rhone! 
 

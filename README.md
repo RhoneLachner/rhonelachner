@@ -3,7 +3,7 @@
 <div align="center">
  
 <h2> Hi, I'm Rhone! Welcome to my GitHub page! </h2>
-<p> ₊ ༚˚✧˳₊⁺⁎ 🌿 ⁎⁺₊˳✧˚༚ ₊ </p>
+<p> ⁺ ༚˚✧˳₊⁺⁎ 🌿 ⁎⁺₊˳✧˚༚ ⁺ </p>
    ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 
    After several years working within the wellness and medical field I have migrated into Full Stack Software Engineering, and I'm loving it! With a broad skillset, adaptive resilience, and ability to find genuine connection in all places, I look forward to integrating a wholistic approach into the digital world.

@@ -34,7 +34,7 @@
  
 <h3>
      <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
-    //
+    ▫️
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h3>
 </div>

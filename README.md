@@ -1,4 +1,4 @@
-**(header-image.png)**
+<img src="header-image.png'/>
 
 ### Hi 👋  I'm Rhone! 
 

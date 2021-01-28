@@ -25,7 +25,7 @@
   <span align="inline">
    <h2>
      <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
-    <span>        </span>
+    <pre>        </pre>
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h2>
  </span>

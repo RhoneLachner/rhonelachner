@@ -21,10 +21,12 @@
   ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
 
 </div>
+
 <div align="center">
   
    <h2>
      <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
+ <span>     </span>
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h2>
 

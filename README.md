@@ -1,6 +1,7 @@
 <img src="github-header.png"></img>
 
-### Hi 👋  I'm Rhone! 
+<div align="center">
+### ✨ Hi I'm Rhone! Welcome to my GitHub page! ✨
 
  ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 
@@ -9,7 +10,7 @@
  I have 20+ years experience in multi-instrumental music performance and composition, and 10+ years experience in event planning, touring, digital music production, digital photography, and editing. I enjoy incorporating these creative skills into my work whenever I can.
 
  I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
-
+</div>
 
 ▫️ Languages: Javascript, HTML, CSS </br>
 ▫️ Front-End: React, Redux </br>

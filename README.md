@@ -19,8 +19,9 @@
 
 
 ### <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
-### <a href="https://www.rhonelachner.com">Portfolio Site</a>
-</br><!--
+### <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
+
+<!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhonelachner&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhonelachner&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

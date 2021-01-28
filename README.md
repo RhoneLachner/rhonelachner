@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<h2> ⁺ ༚˚✧ Welcome! ✧˚༚ ⁺ </h2>
+<h2> About: </h2>
 
    <h4> Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator. </h4>
 
@@ -13,7 +13,8 @@
    I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
 
 ---
-<h2> Tech Stack </h2>
+
+<h2> Tech Stack: </h2>
   ▫️ Languages: Javascript, HTML, CSS ▫️ </br>
   ▫️ Front-End: React, Redux ▫️ </br>
   ▫️ Back-End: NodeJs, Express ▫️ </br>
@@ -24,11 +25,12 @@
 </div>
 
 <div align="center">
-   <h2>
+ <h2> contact: </h2>
+   <h3>
      <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
     //
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
-   </h2>
+   </h3>
 </div>
 
 ---

@@ -18,7 +18,8 @@
 ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical </br>
 
 
-### LinkedIn: **(https://www.linkedin.com/in/rhonelachner/)** 
+### <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
+
 ### Portfolio site: **(https://www.rhonelachner.com)** </br>
 <!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

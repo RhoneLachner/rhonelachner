@@ -12,7 +12,9 @@
 
    I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
 </div>
+
 ---
+
 <div align="center">
 
 <h3> Tech Stack: </h3>
@@ -23,7 +25,9 @@
   ▫️ Databases: PostgreSQL ▫️ </br>
   ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
 </div>
+
 ---
+
 <div align="center">
  
  <h3> contact: </h3>
@@ -34,7 +38,9 @@
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h3>
 </div>
+
 ---
+
 <div align="center">
  <h4>
    GitHub Stats:

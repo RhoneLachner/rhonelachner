@@ -14,7 +14,7 @@
 
 ---
 
-<h2> Tech Stack: </h2>
+<h3> Tech Stack: </h3>
   ▫️ Languages: Javascript, HTML, CSS ▫️ </br>
   ▫️ Front-End: React, Redux ▫️ </br>
   ▫️ Back-End: NodeJs, Express ▫️ </br>
@@ -23,10 +23,13 @@
   ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
 
 </div>
+---
 
 <div align="center">
- <h2> contact: </h2>
-   <h3>
+ 
+ <h3> contact: </h3>
+ 
+<h3>
      <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
     //
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>

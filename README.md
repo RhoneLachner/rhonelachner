@@ -23,10 +23,10 @@
 </div>
 <div align="center">
   <span align="inline">
-   [LinkedIn](https://www.linkedin.com/in/rhonelachner/)[Portfolio Site](https://www.rhonelachner.com)
-   ### <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
-   ### <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
- 
+   <h2>
+     <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
+     <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
+   </h2>
  </span>
 
 </div>

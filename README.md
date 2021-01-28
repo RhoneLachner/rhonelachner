@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<h2> ✨ Hi I'm Rhone! Welcome to my GitHub page! ✨ </h2>
+<h2> ✨ Hi, I'm Rhone! Welcome to my GitHub page! ✨ </h2>
 
    ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 
@@ -29,5 +29,5 @@
 </div>
 
 <div align="center">
-  <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=rhonelachner&show_icons=true&hide_title=true&hide_border=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats" /><img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhonelachner&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=rhonelachner&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhonelachner&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=graywhite" />
 </div>

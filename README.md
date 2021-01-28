@@ -11,19 +11,22 @@
  I have 20+ years experience in multi-instrumental music performance and composition, and 10+ years experience in event planning, touring, digital music production, digital photography, and editing. I enjoy incorporating these creative skills into my work whenever I can.
 
  I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
+
+
+▫️ Languages: Javascript, HTML, CSS ▫️ </br>
+▫️ Front-End: React, Redux ▫️ </br>
+▫️ Back-End: NodeJs, Express ▫️ </br>
+▫️ Testing: Jest, QUnit ▫️ </br>
+▫️ Databases: PostgreSQL ▫️ </br>
+▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
+
 </div>
 
-▫️ Languages: Javascript, HTML, CSS </br>
-▫️ Front-End: React, Redux </br>
-▫️ Back-End: NodeJs, Express </br>
-▫️ Testing: Jest, QUnit </br>
-▫️ Databases: PostgreSQL </br>
-▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical </br>
-
-
+<span align="center">
 ### <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
 ### <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
-
+<span>
+ 
 <!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

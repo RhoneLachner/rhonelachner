@@ -19,8 +19,8 @@
 
 
 ### <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
-
-### Portfolio site: **(https://www.rhonelachner.com)** </br>
+### <a href="https://www.rhonelachner.com">Portfolio Site</a>
+</br>
 <!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

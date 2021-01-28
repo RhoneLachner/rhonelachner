@@ -11,8 +11,9 @@
    I have 20+ years experience in multi-instrumental music performance and composition, and 10+ years experience in event planning, touring, digital music production, digital photography, and editing. I enjoy incorporating these creative skills into my work whenever I can.
 
    I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
-
+</div>
 ---
+<div align="center">
 
 <h3> Tech Stack: </h3>
   ▫️ Languages: Javascript, HTML, CSS ▫️ </br>
@@ -21,10 +22,8 @@
   ▫️ Testing: Jest, QUnit ▫️ </br>
   ▫️ Databases: PostgreSQL ▫️ </br>
   ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
-
 </div>
 ---
-
 <div align="center">
  
  <h3> contact: </h3>
@@ -35,9 +34,7 @@
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h3>
 </div>
-
 ---
-
 <div align="center">
  <h4>
    GitHub Stats:

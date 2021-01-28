@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<h2> 🌿 Hi, I'm Rhone! Welcome to my GitHub page! 🌿 </h2>
+<h2> 🌿  Hi, I'm Rhone! Welcome to my GitHub page!  🌿 </h2>
 
    ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 

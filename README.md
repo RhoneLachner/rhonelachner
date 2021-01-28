@@ -4,7 +4,7 @@
  
 <h2> Hi, I'm Rhone! Welcome to my GitHub page! </h2>
 
-<p> ⁺ ༚˚✧ 🧚🏻 ✧˚༚ ⁺ </p>
+<p> <h2> ⁺ ༚˚✧ 🧚🏻 ✧˚༚ ⁺ </h2> </p>
 
    ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 

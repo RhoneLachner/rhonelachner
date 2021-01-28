@@ -23,18 +23,16 @@
 </div>
 
 <div align="center">
-  
    <h2>
      <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a> </br>
      <a href="https://www.rhonelachner.com">Portfolio Site</a> </br>
    </h2>
-
 </div>
 
 <div align="center">
- 
+ <h3>
    GitHub Stats:
-  
+ </h3>
 </div>  
  
 <div align="center">

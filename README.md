@@ -1,7 +1,7 @@
 
 ### Hi 👋  I'm Rhone! 
 
- ##Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
+ ### Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator.
 
  After several years working within the wellness and medical field I have migrated into Full Stack Software Engineering, and I'm loving it! With a broad skillset, adaptive resilience, and ability to find genuine connection in all places, I look forward to integrating a wholistic approach into the digital world.
 
@@ -18,7 +18,7 @@
 ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical </br>
 
 
-### LinkedIn: **(https://www.linkedin.com/in/rhonelachner/)** [linkedIn]
+### LinkedIn: **(https://www.linkedin.com/in/rhonelachner/)** 
 ### Portfolio site: **(https://www.rhonelachner.com)**
 <!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

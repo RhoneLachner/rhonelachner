@@ -20,8 +20,7 @@
 
 ### <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
 ### <a href="https://www.rhonelachner.com">Portfolio Site</a>
-</br>
-<!--
+</br><!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

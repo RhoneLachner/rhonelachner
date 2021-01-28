@@ -19,7 +19,7 @@
 
 
 ### LinkedIn: **(https://www.linkedin.com/in/rhonelachner/)** 
-### Portfolio site: **(https://www.rhonelachner.com)**
+### Portfolio site: **(https://www.rhonelachner.com)** </br>
 <!--
 **RhoneLachner/rhonelachner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

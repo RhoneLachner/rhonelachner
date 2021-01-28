@@ -9,7 +9,7 @@
 ### I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
 
 
-▫️ Languages: Javascript, HTML, CSS
+▫️ Languages: Javascript, HTML, CSS r/
 ▫️ Front-End: React, Redux
 ▫️ Back-End: NodeJs, Express
 ▫️ Testing: Jest, QUnit

@@ -1,4 +1,4 @@
-<img src="header-image.png"></img>
+<img src="github-header.png"></img>
 
 ### Hi 👋  I'm Rhone! 
 

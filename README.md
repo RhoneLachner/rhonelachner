@@ -1,3 +1,4 @@
+![alt text](https://github.com/rhonelachner/rhonelachner/main/header-image.png?raw=true)
 
 ### Hi 👋  I'm Rhone! 
 

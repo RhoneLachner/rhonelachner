@@ -22,10 +22,13 @@
 
 </div>
 <div align="center">
-  
+  <span>
+   
    ### <a align="" href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a>
    ### <a align="" href="https://www.rhonelachner.com">Portfolio Site</a> </br>
- <p></p>
+ 
+ </span>
+
 </div>
 
 <div align="center">

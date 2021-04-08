@@ -81,6 +81,7 @@ I had a wonderful time working with my teammates and experienced what it is like
 </h4>
  <p> This React app was created using YouTube API, JavaScript, Node.js, PostgreSQL, CSS, Heroku, Netlify, Postman, and Photoshop. 
  </br>
+ </br>
 Karaoke Roulette App uses the YouTube API, allowing users to select randomized karaoke songs to sing with friends. The user flow and design of this application allows participants to log in and save their favorite songs, and the user experience can be shared via video chat screen sharing for a safely social distanced karaoke party. I championed this project, and my main contributions included front-end design, user-flow, and implementing the API. Our team remotely used an Agile ticket system to collaborate and stay on task, and I enjoyed working with everyone involved! </p>
 </br>
 </div>

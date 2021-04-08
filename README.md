@@ -44,7 +44,7 @@
 <h4>
 <a href="https://flourish-pro.netlify.app/">Flourish Plant Care App</a>
  </h4>
- <p> Flourish is a full stack React app implementing a GraphQl back end. Users are able to search for a plant by image recognition or name to find care instructions and tips. Through authentication users may set up a personal profile, save plants to their collection, and create personalized notes for their plant babies! 
+ <p> Flourish is a full stack React app implementing a GraphQL back end and two APIs for plant image recognition and plant care. Users are able to search for a plant by image recognition or name to find care instructions and tips. Through authentication users may set up a personal profile, save plants to their collection, and create personalized notes for their plant babies! 
 </br>
 I primarily worked on the Front End of this application and enjoyed learning about Front End fetches of GraphQL queries and mutations. We used state management to simplify our complex file structure, and our team remotely implemented an Agile system to stay on the same page. This was a wonderful experience, and I am looking forward to optimizing the Front End for mobile viewing. </p>
 </br>

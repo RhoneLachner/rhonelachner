@@ -51,14 +51,12 @@ I am a self-motivated hard-working individual with a love for learning, collabor
 </br>
 I primarily worked on the Front End of this application and enjoyed learning about Front End fetches of GraphQL queries and mutations. We used state management to simplify our complex file structure, and our team remotely implemented an Agile system to stay on the same page. This was a wonderful experience, and I am looking forward to optimizing the Front End for mobile viewing. </p>
 </br>
-</br>
 <h4>
 <a href="https://mystechal-divinators.github.io/project-week-tarot-divinators/index.html">Major Arcana Divinator App</a>
 </h4>
  <p> This app was primarily written with Vanilla JavaScript, HTML, and CSS with additional items created in PhotoShop and GarageBand. Users may choose a one or three-card Tarot spread, and a randomized reading is displayed. Past readings are stored in a history log using local storage.
  </br>
 I enjoyed working on all aspects of this app! I had fun learning how to implement sound effects, and recorded a few synth sounds on GarageBand that are activated within a card onClick function. I championed this project and enjoyed collaboratively working with this wonderful team! We used an Agile Kanban ticket system to remotely organize tasks, and were able to communicate well while staying on the same page. </p>
-</br>
 </br>
 <h4>
 <a href="https://marketplace.visualstudio.com/items?itemName=not-bot.be-human&ssr=false#overview">beHuman VS Code Extension App</a>
@@ -72,7 +70,6 @@ My admin page contributions included fetch calls and functions allowing us to ad
 </br>
 I had a wonderful time working with my teammates and experienced what it is like to remotely develop code in different time zones. I am looking forward to continued work with this team expanding the extension’s capabilities and data structure in the future.
 </p>
-</br>
 </br>
 <h4>
 <a href="https://karaoke-roulette.netlify.app/">Karaoke Roulette App</a>

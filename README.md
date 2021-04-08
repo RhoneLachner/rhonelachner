@@ -54,7 +54,7 @@ I primarily worked on the Front End of this application and enjoyed learning abo
 </h4>
  <p> This app was primarily written with Vanilla JavaScript, HTML, and CSS with additional items created in PhotoShop and GarageBand. Users may choose a one or three-card Tarot spread, and a randomized reading is displayed. Past readings are stored in a history log using local storage.
  </br>
-I had fun learning how to implement sound effects on this app, and recorded a few synth sounds on GarageBand that are activated within a card onClick function. I championed this project and enjoyed collaboratively working with this wonderful team! We used an Agile Kanban ticket system to remotely organize tasks, and were able to communicate well while staying on the same page. </p>
+I enjoyed working on all aspects of this app! I had fun learning how to implement sound effects, and recorded a few synth sounds on GarageBand that are activated within a card onClick function. I championed this project and enjoyed collaboratively working with this wonderful team! We used an Agile Kanban ticket system to remotely organize tasks, and were able to communicate well while staying on the same page. </p>
 </br>
 </br>
 <h4>

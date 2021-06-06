@@ -40,7 +40,7 @@ In 2021 I aim to create memorable, useful, and aesthetically pleasing applicatio
 
 ---
 <div align="center">
-  <h3> Project Links: </h3>
+  <h3> Selected Project Links: </h3>
 <h4>
 <a href="https://flourish-pro.netlify.app/">Flourish Plant Care App</a>
  </h4>

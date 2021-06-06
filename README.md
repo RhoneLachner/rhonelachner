@@ -20,10 +20,11 @@ In 2021 I aim to create memorable, useful, and aesthetically pleasing applicatio
 <h3> Tech Stack: </h3>
   ▫️ Languages: Javascript, HTML, CSS ▫️ </br>
   ▫️ Front-End: React, Redux ▫️ </br>
-  ▫️ Back-End: NodeJs, Express ▫️ </br>
-  ▫️ Testing: Jest, QUnit ▫️ </br>
-  ▫️ Databases: PostgreSQL ▫️ </br>
-  ▫️ Tools: VS Code, Github, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
+  ▫️ Back-End: NodeJs, Express, Kotlin ▫️ </br>
+  ▫️ Testing: Jest, QUnit, Cypress ▫️ </br>
+  ▫️ Databases: PostgreSQL, GraphQL ▫️ </br>
+  ▫️ CMS: Contentful ▫️ </br>
+  ▫️ Tools: VS Code, Github, Azure DevOps, MSTeams, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
 </div>
 
 ---

@@ -6,9 +6,6 @@
 
    <h4> Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator. </h4>
 </br>
-I am a self-motivated hard-working individual with a love for learning, collaboration, communication, growth, and Software Development. I am currently open to new projects and full-time work, and am excited about Frontend-leaning positions and innovative people-oriented products that create positive change in the world. Please feel free to contact me via my LinkedIn profile or Portfolio Website. Thank you for reading!
-</br>
-</br>
    After several years working within the wellness and medical field I have migrated into Full Stack Software Engineering, and I'm loving it! With a broad skillset, adaptive resilience, and ability to find genuine connection in all places, I look forward to integrating a wholistic approach into the digital world.
 
    I have 20+ years experience in multi-instrumental music performance and composition, and 10+ years experience in event planning, touring, digital music production, digital photography, and editing. I enjoy incorporating these creative skills into my work whenever I can.

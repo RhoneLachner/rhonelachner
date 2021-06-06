@@ -24,7 +24,7 @@ In 2021 I aim to create memorable, useful, and aesthetically pleasing applicatio
   ▫️ Testing: Jest, QUnit, Cypress ▫️ </br>
   ▫️ Databases: PostgreSQL, GraphQL ▫️ </br>
   ▫️ CMS: Contentful ▫️ </br>
-  ▫️ Tools: VS Code, Github, Azure DevOps, MSTeams, Slack, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
+  ▫️ Tools: VS Code, Github, Azure DevOps, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical ▫️ </br>
 </div>
 
 ---

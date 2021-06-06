@@ -4,13 +4,14 @@
  
 <h2> About: </h2>
 
-   <h4> Creative and innovative problem solver, empathetic team builder, optimist, and communicative collaborator. </h4>
-</br>
-   After several years working within the wellness and medical field I have migrated into Full Stack Software Engineering, and I'm loving it! With a broad skillset, adaptive resilience, and ability to find genuine connection in all places, I look forward to integrating a wholistic approach into the digital world.
+ <h4>  Hello! My name is Rhone, and I am a Full Stack Software Engineer based in Portland, OR. </h4>
+ 
+With a creative eye, positive outlook, adaptive resilience, and broad skillset, I bring a methodical and holistic approach to all that I do.
 
-   I have 20+ years experience in multi-instrumental music performance and composition, and 10+ years experience in event planning, touring, digital music production, digital photography, and editing. I enjoy incorporating these creative skills into my work whenever I can.
+I am an innovative problem solver, empathetic team builder, and communicative collaborator thriving in both team and solo environments,
+and I believe that every business is made better with an inclusive and diverse array of perspectives and backgrounds.
 
-   I believe every business is made better with an inclusive and diverse array of perspectives and backgrounds. Do you agree?
+In 2021 I aim to create memorable, useful, and aesthetically pleasing applications that enrich people's lives, bridging the gap between the physical and digital worlds.
 </div>
 
 ---

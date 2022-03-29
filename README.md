@@ -5,7 +5,7 @@
  
 <h2> About: </h2>
 
- <h4>  Hello! My name is Rhone, and I am a Full Stack Software Engineer based in Portland, OR. </h4>
+ <h3>  Hello! My name is Rhone, and I am a Full Stack Software Engineer based in Portland, OR. </h3>
  
 With a creative eye, positive outlook, adaptive resilience, and broad skillset, I bring a methodical and holistic approach to all that I do.
 

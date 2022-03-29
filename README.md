@@ -7,25 +7,13 @@
  <h4>  Hello! My name is Rhone, and I am a Full Stack Software Engineer based in Portland, OR. </h4>
  
 With a creative eye, positive outlook, adaptive resilience, and broad skillset, I bring a methodical and holistic approach to all that I do.
+
 I am an innovative problem solver, empathetic team builder, and communicative collaborator thriving in both team and solo environments,
 and I believe that every business is made better with an inclusive and diverse array of perspectives and backgrounds.
 
-In 2021 I aim to create memorable, useful, and aesthetically pleasing applications that enrich people's lives, bridging the gap between the physical and digital worlds.
+In 2022 I am focusing much of my energy on the creative aspects of coding, accessibility, and learning new mediums to help bridge the gap between physical and digital worlds.
 </div>
 
----
-
-<div align="center">
-
-<h3> Tech Stack: </h3>
-  ▫️ Languages: Javascript, HTML, CSS ▫️ </br>
-  ▫️ Front-End: React, Redux ▫️ </br>
-  ▫️ Back-End: NodeJs, Express, Kotlin ▫️ </br>
-  ▫️ Testing: Jest, QUnit, Cypress ▫️ </br>
-  ▫️ Databases: PostgreSQL, GraphQL ▫️ </br>
-  ▫️ CMS: Contentful ▫️ </br>
-  ▫️ Tools: VS Code, Github, Azure DevOps, Storybook, Heroku, Netlify, Postman, pgAdmin, Photoshop, GarageBand, Miro, Whimsical, Figma ▫️ </br>
-</div>
 
 ---
 
@@ -85,6 +73,11 @@ Karaoke Roulette App uses the YouTube API, allowing users to select randomized k
 </div>
 
 ---
+<div align="center">
+I curretly work at a company which uses Azure DevOps rather than GitHub. 
+ <br></br> 
+ Stats here are unfortunately not reflective of current work.
+</div>  
 
 <div align="center">
  <h4>

@@ -1,5 +1,4 @@
-<img src="![github banner](https://user-images.githubusercontent.com/65429591/160698725-aeedd559-5655-4117-886b-8c84ef03a1d4.jpg)
-g"></img>
+![hithub banner 2](https://user-images.githubusercontent.com/65429591/160699715-70669df3-1d1d-4d6f-a4dc-094cfa8a67a8.jpg)
 
 <div align="center">
  

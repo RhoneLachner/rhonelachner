@@ -22,7 +22,7 @@ I will be focusing much of my personal time on Software Engineering volunteer wo
 
 <div align="center">
  
- <h3> contact: </h3>
+ <h3> Contact: </h3>
  
    <h4>
     ⁺ ༚˚✧ <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a> //  
@@ -77,10 +77,16 @@ Karaoke Roulette App uses the YouTube API, allowing users to select randomized k
 
 ---
 <div align="center">
-<h2> I curretly work at a company which uses Azure DevOps rather than GitHub. 
- <br></br> 
- Stats here are unfortunately not reflective of daily engineering work. </h2>
+ <h4> 
+   I work at a company which uses Azure DevOps without GitHub integration. 
+     <br></br>
+   Here is a graph showing my 2022-2023 work-specific Engineering contributions 
+     <br>
+   before transitioning into a Product Management role in mid-February:
+ </h4>
+  <img width="85%" alt="Screenshot 2023-05-24 at 3 09 10 PM" src="https://github.com/RhoneLachner/rhonelachner/assets/65429591/d5d6a7ef-25b6-4c77-8b54-21c885ac7e9c">
 </div>  
+<br></br>
 
 <div align="center">
  <h4>

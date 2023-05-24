@@ -84,7 +84,7 @@ Karaoke Roulette App uses the YouTube API, allowing users to select randomized k
      <br>
    before transitioning into a Product Management role in mid-February:
  </h4>
-  <img width="85%" alt="Screenshot 2023-05-24 at 3 09 10 PM" src="https://github.com/RhoneLachner/rhonelachner/assets/65429591/d5d6a7ef-25b6-4c77-8b54-21c885ac7e9c">
+  <img width="95%" alt="Screenshot 2023-05-24 at 3 09 10 PM" src="https://github.com/RhoneLachner/rhonelachner/assets/65429591/d5d6a7ef-25b6-4c77-8b54-21c885ac7e9c">
 </div>  
 <br></br>
 

@@ -5,18 +5,11 @@
  
 <h2> About: </h2>
 
- <h3>  Hello! My name is Rhone and I am a Full-Stack Software Engineer,
-Product Manager, and Musician based in Vancouver, WA. </h3>
+ <h4>  Hello! My name is Rhone and I am a Full-Stack Software Engineer,
+Product Manager, and Musician based in Vancouver, WA. </h4>
  
-With a creative eye, positive outlook, adaptive resilience, and broad skillset, I bring a methodical, human-centered, and holistic approach to all that I do.
-
-In 2023:
-
-I have shifted much of my professional focus into Technical Product Management with the intention of incorporating several of my skillsets into a single holistic setting.
-
-I will be focusing much of my personal time on Software Engineering volunteer work, creative coding, music production, 3D design exploration, learning new technologies, and preparing to record a new album with my band.
-</div>
-
+With a creative eye, positive outlook, adaptive resilience, and broad skillset, I bring a methodical, </br>
+ human-centered, and holistic approach to all that I do.
 
 ---
 

@@ -5,11 +5,7 @@
  
 <h2> About: </h2>
 
- <h4>  Hello! My name is Rhone and I am a Full-Stack Software Engineer,
-Product Manager, and Musician based in Vancouver, WA. </h4>
- 
-With a creative eye, positive outlook, adaptive resilience, and broad skillset, I bring a methodical, </br>
- human-centered, and holistic approach to all that I do.
+ <h4>  Hello! I am a Full-Stack Software Engineer and Musician based in Portland, Oregon. </h4>
 
 ---
 

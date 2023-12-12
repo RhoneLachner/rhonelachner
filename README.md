@@ -64,21 +64,7 @@ Karaoke Roulette App uses the YouTube API, allowing users to select randomized k
 </br>
 </div>
 
----
-<div align="center">
- <h4> 
-   I work at a company which uses Azure DevOps without GitHub integration. 
-     <br></br>
-   Here is a graph showing my 2022-2023 work-specific Engineering contributions 
-     <br>
-   before transitioning into a Product Management role in mid-February:
- </h4>
-  <img width="95%" alt="Screenshot 2023-05-24 at 3 09 10 PM" src="https://github.com/RhoneLachner/rhonelachner/assets/65429591/d5d6a7ef-25b6-4c77-8b54-21c885ac7e9c">
-</div>  
-<br></br>
 
-<div align="center">
- <h4>
    GitHub Stats:
  </h4>
 </div>  

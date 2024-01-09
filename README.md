@@ -1,10 +1,3 @@
-
-<div align="center">
-
- <h3>  Hello world! I am a Full-Stack Software Engineer and Musician based in Portland, Oregon. </h3>
-
----
-
 <div align="center">
  
  <h3> Contact: </h3>

@@ -1,11 +1,7 @@
-![github banner 3](https://user-images.githubusercontent.com/65429591/160699993-fa4a76fe-87fc-421c-a783-0dcd0e33a937.jpg)
-
 
 <div align="center">
- 
-<h2> About: </h2>
 
- <h4>  Hello! I am a Full-Stack Software Engineer and Musician based in Portland, Oregon. </h4>
+ <h3>  Hello world! I am a Full-Stack Software Engineer and Musician based in Portland, Oregon. </h3>
 
 ---
 

@@ -10,15 +10,9 @@
 
 ---
 <div align="center">
+ 
   <h3> Selected Project Links: </h3>
-<h4>
-<a href="https://flourish-pro.netlify.app/">Flourish Plant Care App</a>
- </h4>
- <p> Flourish is a full stack React app implementing a GraphQL back end and two APIs for plant image recognition and plant care. Users are able to search for a plant by image recognition or name to find care instructions and tips. Through authentication users may set up a personal profile, save plants to their collection, and create personalized notes for their plant babies! 
-</br>
-</br>
-I primarily worked on the Front End of this application and enjoyed learning about Front End fetches of GraphQL queries and mutations. We used state management to simplify our complex file structure, and our team remotely implemented an Agile system to stay on the same page. This was a wonderful experience, and I am looking forward to optimizing the Front End for mobile viewing. </p>
-</br>
+
 <h4>
 <a href="https://mystechal-divinators.github.io/project-week-tarot-divinators/index.html">Major Arcana Divinator App</a>
 </h4>
@@ -26,7 +20,7 @@ I primarily worked on the Front End of this application and enjoyed learning abo
  </br>
  </br>
 I enjoyed working on all aspects of this app! I had fun learning how to implement sound effects, and recorded a few synth sounds on GarageBand that are activated within a card onClick function. I championed this project and enjoyed collaboratively working with this wonderful team! We used an Agile Kanban ticket system to remotely organize tasks, and were able to communicate well while staying on the same page. </p>
-</br>
+
 <h4>
 <a href="https://marketplace.visualstudio.com/items?itemName=not-bot.be-human&ssr=false#overview">beHuman VS Code Extension App</a>
 </h4>
@@ -42,7 +36,17 @@ My admin page contributions included fetch calls and functions allowing us to ad
 </br>
 I had a wonderful time working with my teammates and experienced what it is like to remotely develop code in different time zones. I am looking forward to continued work with this team expanding the extension’s capabilities and data structure in the future.
 </p>
+
+<h4>
+<a href="https://flourish-pro.netlify.app/">Flourish Plant Care App</a>
+ </h4>
+ <p> Flourish is a full stack React app implementing a GraphQL back end and two APIs for plant image recognition and plant care. Users are able to search for a plant by image recognition or name to find care instructions and tips. Through authentication users may set up a personal profile, save plants to their collection, and create personalized notes for their plant babies! 
 </br>
+</br>
+I primarily worked on the Front End of this application and enjoyed learning about Front End fetches of GraphQL queries and mutations. We used state management to simplify our complex file structure, and our team remotely implemented an Agile system to stay on the same page. This was a wonderful experience, and I am looking forward to optimizing the Front End for mobile viewing. </p>
+
+
+
 <h4>
 <a href="https://karaoke-roulette.netlify.app/">Karaoke Roulette App</a>
 </h4>

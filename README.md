@@ -62,6 +62,4 @@ Karaoke Roulette App uses the YouTube API, allowing users to select randomized k
  </h4>
 </div>  
  
-<div align="center">
-  <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=rhonelachner&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhonelachner&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
-</div>
+

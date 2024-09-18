@@ -24,21 +24,6 @@
 The extension has two parts, a user-facing portion linking the application’s functionality to the VS Code Extension Marketplace, and an admin access page that allows the development team to easily add and edit the data shared in the extension alerts. We developed our app with mob-programming, pair-programming, and individual programming using an organized ticket system, and had intentional check-ins twice per day allowing everyone's input to be heard.
 </p>
 
-<h4>
-<a href="https://flourish-pro.netlify.app/">Flourish Plant Care App</a>
- </h4>
- <p> Flourish is a full stack React app implementing a GraphQL back end and two APIs for plant image recognition and plant care. Users are able to search for a plant by image recognition or name to find care instructions and tips. Through authentication users may set up a personal profile, save plants to their collection, and create personalized notes for their plant babies! 
-</p>
-
-<h4>
-<a href="https://karaoke-roulette.netlify.app/">Karaoke Roulette App</a>
-</h4>
- <p> This React app was created using YouTube API, JavaScript, Node.js, PostgreSQL, CSS, Heroku, Netlify, Postman, and Photoshop. 
- </br>
-Karaoke Roulette App uses the YouTube API, allowing users to select randomized karaoke songs to sing with friends. </p>
-</br>
-</div>
-
 <div align="center">
  <h4>  GitHub Stats: </h4>
    <div align="center">

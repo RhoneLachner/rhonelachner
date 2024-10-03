@@ -28,7 +28,7 @@
 
   <article>
     <h3>CommitWizard CLI</h3>
-    <a href="  https://www.npmjs.com/package/commitwizard-cli">Published npm Package</a> |
+    <a href="https://www.npmjs.com/package/commitwizard-cli">Published npm Package</a> |
     <a href="https://github.com/RhoneLachner/CommitWizard-CLI">Repository</a>
     <p>
       CommitWizard CLI is a command-line tool that helps developers write consistent and structured Git commit messages by interactively selecting a commit category before writing the message. This ensures best practices are followed and makes it easier to maintain a clear commit history.

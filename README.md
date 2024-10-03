@@ -60,7 +60,7 @@
   <hr>
 
   <article>
-    <h3>beHuman VS Code Extension App</h3>
+    <h3>beHuman VS Code Extension</h3>
     <a href="https://marketplace.visualstudio.com/items?itemName=not-bot.be-human&ssr=false#overview">VS Code Marketplace</a> |
     <a href="https://github.com/alchemy-be-human">Repository</a>
     <p>

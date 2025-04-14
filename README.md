@@ -40,16 +40,6 @@
   <hr>
 
   <article>
-    <h3>Work in Progress: Contingency Compass App</h3>
-    <a href="https://github.com/RhoneLachner/contingency-compass-app">Repository</a>
-    <p>
-      A full-stack web application designed to provide critical information and resources during natural disasters. It features real-time updates, location-based data, and resource mapping. The frontend is built with React, HTML, CSS, and JavaScript, while the backend utilizes Django and Django REST Framework. APIs include FEMA, OpenWeatherMap, and Google Maps to ensure reliable, up-to-date data.
-    </p>
-  </article>
-
-  <hr>
-
-  <article>
     <h3>Major Arcana Divinator App</h3>
     <a href="https://mystechal-divinators.github.io/project-week-tarot-divinators/index.html">Published Site</a> |
     <a href="https://github.com/Mystechal-Divinators">Repository</a>

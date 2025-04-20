@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7fad2ab1-a39e-44b4-b4b4-a528265b5630" 
        alt="github-welcome-animation" 
-        width="340" 
+        width="320" 
     />
     </p>
 

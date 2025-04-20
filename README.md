@@ -1,10 +1,18 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7fad2ab1-a39e-44b4-b4b4-a528265b5630" 
+       alt="github-welcome-animation" 
+        width="340" 
+    />
+    </p>
+
 <div align="center">
-  <h3>Contact:</h3>
   <h4>
     ⁺ ༚˚✧ <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a> //  
     <a href="https://www.sarahrhonelachner.dev/">Portfolio Site</a> ✧˚༚ ⁺
   </h4>
 </div>
+
+</br>
 
 <section align="center">
   <h2>Selected Project Links:</h2>

@@ -8,7 +8,7 @@
 <div align="center">
   <h4>
     ⁺ ༚˚✧ <a href="https://www.linkedin.com/in/rhonelachner/">LinkedIn</a> //  
-    <a href="https://www.sarahrhonelachner.dev/">Portfolio Site</a> ✧˚༚ ⁺
+    <a href="https://www.rhonelachner.com/">Portfolio Site</a> ✧˚༚ ⁺
   </h4>
 </div>
 

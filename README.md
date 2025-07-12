@@ -46,7 +46,7 @@
 
   <article>
     <h3>Major Arcana Divinator App</h3>
-    <a href="https://mystechal-divinators.github.io/project-week-tarot-divinators/index.html">Published Site</a> |
+    <a href="https://www.arcanadivinator.online/">Published Site</a> |
     <a href="https://github.com/Mystechal-Divinators">Repository</a>
     <p>
       This app was primarily written with Vanilla JavaScript, HTML, and CSS, with additional assets created in Photoshop and GarageBand. Users may choose a one or three-card Tarot spread, and a randomized reading is displayed. Past readings are stored in a history log using local storage.

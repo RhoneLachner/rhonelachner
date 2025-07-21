@@ -31,6 +31,24 @@
 
   <hr>
 
+ <h3> Boilerplate Wizard</h3>
+    <a href="https://www.npmjs.com/~rhonezone">Published npm Packages</a> |
+    <a href="https://github.com/RhoneLachner/boilerplate-wizard-monorepo">Repository</a>
+  <p>
+A collection of batteries‑included boilerplate generators for modern web apps published on npm. This project was created as a modern alternative to create-react-app to help developers scaffold production‑ready React and Next.js projects in seconds with strong defaults, a clean architectural foundation, and minimal configuration.
+
+Each boilerplate UI contains an about page with user startup instructions and development commands. Wizard Note comments are embedded throughout the codebase to guide users on which files can be safely customized or removed.
+
+Built using Node.js with native ES modules, Boilerplate Wizard powers multiple bp-wizard-create-* CLI tools, each designed to spin up a new project with sensible defaults, testing, linting, and modern structure. It integrates popular frontend frameworks like React 18 and Next.js 14 (App Router), and includes Vite for fast builds and modern development features. Code quality is enforced through ESLint and Prettier, and testing is fully configured with Vitest, Jest, and Playwright for unit, integration, and end-to-end coverage.
+
+The project uses npm and pnpm workspaces for package management, and includes CI/CD support via GitHub Actions and Dependabot for automated updates and security. By emphasizing up-to-date dependencies and security-first practices, Boilerplate Wizard provides a robust starting point for professional-grade applications, personal projects, and hackathons.
+
+<strong>Available Commands for npm Package Download:</strong></br> <strong>React + JavaScript: </strong> <code>npx bp-wizard-create-react-js my-app </code></br><strong>React + TypeScript: </strong> <code>npx bp-wizard-create-react-ts my-app</code></br><strong>Next.js + JavaScript: </strong> <code>npx bp-wizard-create-next-js my-app </code></br><strong>Next.js + TypeScript: </strong> <code>npx bp-wizard-create-next-ts my-app </code></br>
+    
+  </p>
+
+  <hr>
+
   <article>
     <h3>CommitWizard CLI</h3>
     <a href="https://www.npmjs.com/package/commitwizard-cli">Published npm Package</a> |

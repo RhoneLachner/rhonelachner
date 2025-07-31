@@ -16,7 +16,7 @@
  ---
   <article>
     <h3>2024 Development Portfolio Site</h3>
-    <a href="https://www.sarahrhonelachner.dev/">Published Site</a> |
+    <a href="https://www.rhonelachner.com/">Published Site</a> |
     <a href="https://github.com/RhoneLachner/2024-portfolio">Repository</a>
     <p>
       This portfolio site was built using Next.js, TypeScript, and Tailwind CSS to showcase my work as a developer and highlight my passion for clean, responsive design. Utilizing static site generation and optimized WebP images, the site ensures fast performance and a smooth user experience.
